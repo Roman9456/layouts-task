@@ -1,0 +1,22 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin: 3px;
+    padding:0 15px 0 15px;
+    height: 100px;
+    background-color: rgb(245, 245, 245);
+}
+
+.itemImg {
+    height: 100%;
+}
+
+
+.itemCart {
+    border: 2px solid red;
+    border-radius: 15px;
+    padding: 5px;
+    color: red;
+    text-transform: uppercase;
+}
